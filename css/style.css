@@ -1,0 +1,12 @@
+body{
+    background-color: #00ff1f;
+    color: #fff;
+}
+
+p {
+    color: yellow;
+}
+
+.abc, ul li.hehe{
+    color: #cc00ff;
+}
